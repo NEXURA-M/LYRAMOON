@@ -4,11 +4,11 @@ from transformers import pipeline
 
 app = Flask(__name__)
 
-print("Loading Qwen1.5 0.5B Chat Model...")
+print("Loading Qwen2.5-1.5B-Instruct Model...")
 pipe = pipeline(
     "text-generation",
     model="muhammad-taqi512/LYRAMOON",
-    torch_dtype=torch.float32,
+    torch_dtype=torch.float16,  # <-- Yahan float16 kar diya hai taaki memory kam le
     device_map="auto"
 )
 print("Model Loaded Successfully!")
@@ -45,7 +45,6 @@ def generate():
     
     generated_text = outputs[0]["generated_text"]
     
-    # Qwen1.5 ChatML format handle karne ke liye parsing update
     if "<|im_start|>assistant" in generated_text:
         response = generated_text.split("<|im_start|>assistant")[-1].replace("<|im_end|>", "").strip()
     else:
