@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://twisted-showed-code-magnificent.trycloudflare.com](https://twisted-showed-code-magnificent.trycloudflare.com)
+**Active URL:** [https://ericsson-contents-assessment-jurisdiction.trycloudflare.com](https://ericsson-contents-assessment-jurisdiction.trycloudflare.com)
 
-_Last Updated: Sun Sep 27 20:37:59 UTC 2026_
+_Last Updated: Mon Sep 28 02:37:29 UTC 2026_
