@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://springfield-locking-guides-flights.trycloudflare.com](https://springfield-locking-guides-flights.trycloudflare.com)
+**Active URL:** [https://boc-pupils-cycle-generate.trycloudflare.com](https://boc-pupils-cycle-generate.trycloudflare.com)
 
-_Last Updated: Mon Nov  9 14:43:42 UTC 2026_
+_Last Updated: Tue Nov 10 01:00:30 UTC 2026_
