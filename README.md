@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://site-soc-graphic-strategies.trycloudflare.com](https://site-soc-graphic-strategies.trycloudflare.com)
+**Active URL:** [https://exhibit-hits-running-oral.trycloudflare.com](https://exhibit-hits-running-oral.trycloudflare.com)
 
-_Last Updated: Fri Nov 13 23:03:13 UTC 2026_
+_Last Updated: Sat Nov 14 04:06:01 UTC 2026_
